@@ -1,8 +1,8 @@
 body { padding: 15px; background-color: #ffefef;}
 h1 { font-size: 300%; }
 h3 { font-size: 200%; }
-a:visited {	color: pink; }
-a:link { color: purple; }
+a:visited {	color: #009; }
+a:link { color: #00d; }
 dd { font-weight: bold; }
 dt { font-size: 150%; }
 nav { font-style: normal; font-size: 100%; }
