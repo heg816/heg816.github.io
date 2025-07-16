@@ -1,0 +1,12 @@
+body {
+	padding: 15px;
+	background-color: #ffefef;
+}
+header {
+	text-align: center;
+	color: #1f001f;
+}
+.bodyText {
+	font-family: Georgia, serif;
+	color: #001f00;
+}
