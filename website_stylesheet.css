@@ -3,9 +3,10 @@ h1 { font-size: 300%; }
 h3 { font-size: 200%; }
 a:visited {	color: #009; }
 a:link { color: #00d; }
-dd { font-weight: bold; }
+dd { font-weight: bold; text-align: center;}
 dt { font-size: 150%; }
 nav { font-style: normal; font-size: 100%; }
 header { text-align: center; color: #1f001f; }
 .bodyText {	font-family: Georgia, serif; font-size: 125%; color: #001f00; }
 footer { position: absolute; bottom: 0; height: 40px; margin-top: 40px; }
+img {float: right; background: #fdd}
