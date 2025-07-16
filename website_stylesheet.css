@@ -9,5 +9,6 @@ nav { font-style: normal; font-size: 100%; }
 header { text-align: center; color: #1f001f; }
 .bodyText {	font-family: Georgia, serif; font-size: 125%; color: #001f00; }
 footer { position: absolute; bottom: 0; height: 40px; margin-top: 40px; }
+img {float: right; background: #fdd}
 #indexBody { text-align: center}
 #faceImage { text-algin: left; }
