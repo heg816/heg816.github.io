@@ -11,4 +11,4 @@ header { text-align: center; color: #1f001f; }
 footer { position: absolute; bottom: 0; height: 40px; margin-top: 40px; }
 img {float: right; background: #fdd; text-align: right;}
 #indexBody { text-align: center; }
-#faceImage { text-algin: left; }
+#faceImage { float: left; }
